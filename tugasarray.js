@@ -1,0 +1,20 @@
+var  listKelurahanBantul = [['Mulyodadi', 'Sidomulyo', 'Sumbermulyo'],
+["bangutapan", 'baturetno', 'jagalan', 'jambidan', 'potorono', 'singosaren', 'tamanan', 'wirokerten'],
+['bantul', 'palbapang', 'ringinharjo', 'sabdodadi', 'trirenggo'],
+['dlingo', 'jatimulyo', 'mangunan', 'muntuk', 'temuwuh', 'terong'],
+['Girirejo', 'Imogiri', 'Karangtalun', 'Karangtengah','Kebonagung','Selopamioro','Sriharjo','Wukirsari'],
+['Canden','Patalan','Sumberagung','Trimulyo'],
+['Bangunjiwo','Ngestiharjo','Tamantirto','Tirtonirmolo'],
+['Donotirto','Parangtritis','Tirtohargo','Tirtomulyo','Tirtosari'],
+['Guwosari','Sendangsari','Triwidadi'],
+['Caturharjo','Gilangharjo','Triharjo','Wijirejo'],
+['Srimulyo','Sitimulyo','Srimartani'],
+['Bawuran','Pleret','Segoroyo','soWonok','romoWono','lelo'],
+['Panjangrejo','Bangunharjo','Srihardono'],
+['Gadingsari','Gadingharjo','Murtigading','Srigading'],
+['Argodadi','Argorejo','Argosari','gomulyo'],
+['Bangunharjo','Panggungharjo','Pendowoharjo','Timbulharjo'],
+['Poncosari','Trimurti'],
+
+]
+
